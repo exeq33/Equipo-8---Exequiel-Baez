@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CaculadoraDescuento/CaculadoraDescuento.iml" filepath="$PROJECT_DIR$/CaculadoraDescuento/CaculadoraDescuento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CalculadoraPropinas/CalculadoraPropinas.iml" filepath="$PROJECT_DIR$/CalculadoraPropinas/CalculadoraPropinas.iml" />
       <module fileurl="file://$PROJECT_DIR$/CalculoEdadPerros/CalculoEdadPerros.iml" filepath="$PROJECT_DIR$/CalculoEdadPerros/CalculoEdadPerros.iml" />
       <module fileurl="file://$PROJECT_DIR$/ConversorMillasAkm/ConversorMillasAkm.iml" filepath="$PROJECT_DIR$/ConversorMillasAkm/ConversorMillasAkm.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Equipo-8---Exequiel-Baez.iml" filepath="$PROJECT_DIR$/.idea/Equipo-8---Exequiel-Baez.iml" />
