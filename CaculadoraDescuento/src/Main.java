@@ -16,6 +16,6 @@ public class Main {
 
 
 
-        System.out.println("La distancia en kilometros es: "+distKm);
+
     }
 }
